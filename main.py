@@ -2,8 +2,6 @@ import os
 import re
 import csv
 import unittest
-from test_1 import Test_test_1
-
 from check_and_summary import check_and_summary
 
 def readfile(inputfile):
