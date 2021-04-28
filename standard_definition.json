@@ -46,6 +46,11 @@
         "key": "L31",
         "data_type": "word_characters",
         "max_length": 1
+      },
+      {
+        "key": "L32",
+        "data_type": "word_characters",
+        "max_length": 1
       }
     ]
   },
